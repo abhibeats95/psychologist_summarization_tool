@@ -1,0 +1,5 @@
+streamlit
+json_repair
+langchain_openai
+langchain
+weaviate-client==3.25.3
